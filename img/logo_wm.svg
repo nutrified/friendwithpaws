@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 319.14 156.86">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 100px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+        font-family: Georgia-Bold, Georgia;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-size: 50px;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(0 84.64)"><tspan x="0" y="0">friend</tspan></text>
+  <text class="cls-2" transform="translate(31.68 141.7)"><tspan x="0" y="0">with paws</tspan></text>
+</svg>
